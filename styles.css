@@ -1162,9 +1162,6 @@ footer {
 }
 
 @media (max-width: 768px) {
-    .tech-stack {
-        padding: 60px 20px;
-    }
     .grid {
         grid-template-columns: 1fr;
     }
